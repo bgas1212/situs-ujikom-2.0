@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.bg {
+  position: absolute;
+  width: 100%;
+  left: 0;
+  top: 0;
+}
+
+.logo {
+  width: 40%;
+  height: auto;
+  top: 10%;
+  margin-top: 1rem;
+}
+
+.subtitle {
+  margin-top: -3rem;
+  color: whitesmoke;
+  font-size: 30px;
+  display: block;
+  position: relative;
+  outline: 1px;
+  outline-color: black;
+}

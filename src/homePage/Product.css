@@ -1,0 +1,59 @@
+.menu {
+  position: absolute;
+  background-color: rgb(232, 232, 232);
+  color: black;
+  left: 0;
+  top: 80%;
+  width: 100%;
+  height: 80%;
+}
+
+.menu h2 {
+  margin: 2rem;
+  font-size: 35px;
+}
+
+.contariner {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 44%;
+  align-items: center;
+}
+
+.prodBtn {
+  margin-right: 10%;
+}
+
+.menu ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* border: 1px solid red; */
+  margin-top: 2%;
+}
+
+.menu ul li {
+  border: 1px solid red;
+  background-color: whitesmoke;
+  list-style: none;
+  height: 100%;
+  /* padding: 2%; */
+  border-radius: 20px;
+  margin: auto 10px;
+  padding: 1rem;
+}
+
+.menu ul li img {
+  width: 300px;
+  border-radius: 10px;
+}
+
+.menu ul li p {
+  margin: 5px;
+}
+
+.card :hover {
+  scale: 1.1;
+}
+
+

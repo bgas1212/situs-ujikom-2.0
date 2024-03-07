@@ -1,0 +1,17 @@
+.bar {
+  position: fixed;
+  top: 5.8rem;
+  left: 0%;
+  width: 100%;
+  background-color: whitesmoke;
+  justify-content: space-evenly;
+  display: flex;
+  padding: 1%;
+  z-index: 10;
+}
+
+.bar input{
+  font-size: 24px;
+  border-radius: 50px;
+  padding:  10px ;
+}

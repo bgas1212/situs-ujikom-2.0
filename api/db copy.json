@@ -1,0 +1,39 @@
+{
+  "dataMakanan": [
+    {
+      "id": "1",
+      "gambar": "public/Nasi-Goreng-square-FS-57.jpg",
+      "nama": "nasi goreng ",
+      "harga": 12000,
+      "deskripsi": "aqwsedrtfgyuhijokrvbyi,ikoumftdddfneqwm8fuahhefa"
+    },
+    {
+      "id": "2",
+      "nama": "nasi goreng ekstra",
+      "harga": 16000,
+      "gambar": "public/Nasi-Goreng-square-FS-57.jpg",
+      "deskripsi": "qwertyuiop[oijhgfdsdghjklkjvbnjbnm,"
+    },
+    {
+      "id": "3",
+      "nama": "nasi goreng ekstra ekstra",
+      "harga": 20000,
+      "gambar": "public/Nasi-Goreng-square-FS-57.jpg",
+      "deskripsi": "qwertyuiop[oijhgfdsdghjklkjvbnjbnm,"
+    },
+    {
+      "id": "4",
+      "nama": "nasi goreng ekstra ekstra",
+      "harga": 20000,
+      "gambar": "public/Nasi-Goreng-square-FS-57.jpg",
+      "deskripsi": "qwertyuiop[oijhgfdsdghjklkjvbnjbnm,"
+    },
+    {
+      "id": "5",
+      "nama": "nasi goreng ekstra ekstra",
+      "harga": 20000,
+      "gambar": "public/Nasi-Goreng-square-FS-57.jpg",
+      "deskripsi": "qwertyuiop[oijhgfdsdghjklkjvbnjbnm,"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+.ProdList {
+  margin-top: 12%;
+}
+
+.ProdList li img {
+  width: 25%;
+  margin: 5% 0;
+  margin-left: 3%;
+}
+
+.ProdList ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.ProdList li {
+  list-style: none;
+  display: flex;
+  margin: 1% auto;
+  border-radius: 10px;
+  background-color: whitesmoke;
+  padding: 1%;
+  color: rgb(34, 34, 34);
+  width: 100%;
+}
+
+.deskripsi {
+  margin-left: 4%;
+  font-size: 22px;
+  text-align: left;
+}
+
+.delete {
+  background-color: red;
+  height: 3rem;
+  margin-top: 16rem;
+  right: 10rem;
+  position: absolute;
+}
+
+.update {
+  background-color: blue;
+  height: 3rem;
+  margin-top: 16rem;
+  right: 16rem;
+  position: absolute;
+}
